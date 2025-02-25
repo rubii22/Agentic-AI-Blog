@@ -39,10 +39,10 @@ const projects = [
     link: "https://teacher-hiring-website.vercel.app/",
   },
   {
-    title: "Resume Builder",
+    title: "Shareable Resume Builder",
     description: "A dynamic resume builder that helps users create professional resumes.",
     image: "/resume.png",
-    link: "https://static-resume-builder-delta.vercel.app/",
+    link: "https://hackathon-milestone-5-seven.vercel.app/",
   },
   {
     title: "To-Do List",
